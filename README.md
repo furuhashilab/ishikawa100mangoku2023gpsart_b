@@ -1,2 +1,2 @@
 # ishikawa100mangoku2023gpsart_b
-チームB専用レポジトリ
+9月ハッカソン　チームB専用レポジトリ
