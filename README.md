@@ -1,1 +1,2 @@
 # ishikawa100mangoku2023gpsart_b
+チームB専用レポジトリ
