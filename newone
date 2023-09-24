@@ -1,5 +1,6 @@
 # ishikawa100mangoku2023gpsart_b
 9月ハッカソン　チームB専用レポジトリ
+
 var config = {
     style: 'mapbox://styles/mapbox/streets-v11',
     accessToken: 'pk.eyJ1IjoiemF3YXRhaXl1IiwiYSI6ImNsbXBzaTE2czB3M3MybG85N2Y5NDMwMmQifQ.rRQz5n8yD6Nhw04dbf2c2Q',
