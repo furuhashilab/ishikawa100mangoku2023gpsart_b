@@ -281,10 +281,10 @@ var config = {
             image: 'https://user-images.githubusercontent.com/106800258/271774986-1c91c87c-c6c9-499d-90b0-bf01eefc801e.jpg',
             description: 'かほく市が生んだ日本近代哲学の偉人、西田幾多郎。幾多郎の生誕地から生い立ちの地、西田幾多郎哲学館、哲学の道、幾多郎のお墓など幾多郎のルーツを巡っていくと、「考える人」が町に浮かびあがります。【モーゼが訪れる理由：芸術を通じて人間の思考を理解し、深く思索するため。】',
             location: {
-                center: [141.60772, 39.02175],
+                center: [136.70453, 36.72240],
 		zoom: 16.00,
 		pitch: 45.00,
-		bearing: 0.00
+		bearing: -40.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -300,10 +300,10 @@ var config = {
             image: 'https://user-images.githubusercontent.com/106800258/271775022-129a6f18-b8d1-4407-a505-61c6496a1161.jpg',
             description: '河北潟一周駅伝は箱根駅伝と同じ大正9年（1920年）から始まった日本最古の駅伝であり、開催回数は100回を超える伝統的な大会。襷をつないでゴールテープを切るランナーをゴール地点の津幡町で描きます。【モーゼが訪れる理由：自然の豊かさを感じ取り、その景観の美しさに感謝するため。】',
             location: {
-                center: [-3.77720, 38.09350],
-		zoom: 15.35,
+                center: [136.72758, 36.66335],
+		zoom: 16.00,
 		pitch: 45.00,
-		bearing: 0.00
+		bearing: -40.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
