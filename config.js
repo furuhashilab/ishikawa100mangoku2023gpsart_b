@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/wataruyoshida/clmu8pv4y008f01rd6gbzf3ox',
-accessToken:'pk.eyJ1Ijoid2F0YXJ1eW9zaGlkYSIsImEiOiJjbDFtd3d6YjgwM3FkM2pxN2R6cnZ3',
+    style: 'mapbox://styles/mapconcierge/ckx5jjjbl4cvp15qzudh04v2o',
+accessToken:'pk.eyJ1IjoibWFwY29uY2llcmdlIiwiYSI6ImJmNENfRG8ifQ.sfstXrLSQ50IqGHpAUlKDw',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
